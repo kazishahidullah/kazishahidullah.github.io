@@ -1,2 +1,2 @@
 # kazishahidullah.github.io
-Personal website of kazi
+My personal website

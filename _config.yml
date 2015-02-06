@@ -1,0 +1,19 @@
+# Site settings
+title: Kazi Shahidullah
+email: kazishahidullah@nevada.unr.edu
+description: "Personal Website of Kazi Shahidullah"
+#logo_location: "/assets/img/unr.jpg"
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://cse.unr.edu/~hossain" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+#will use clientside prism.js instead
+highlighter: pygments
+
+
+#Other Global Configuration
+exclude: ['README.md']

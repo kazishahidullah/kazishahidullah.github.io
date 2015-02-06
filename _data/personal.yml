@@ -1,0 +1,27 @@
+---
+  name: "Kazi Shahidullah"
+  #nickname: "Rifat"
+  position: "Graduate Student"
+  dept: "College of Education"
+  school: "University of Nevada, Reno"
+  city: "Reno"
+  state: "NV"
+  email: "kazishahidullah@nevada.unr.edu"
+  gravatar: ""
+  social:
+    google:
+      url: "https://plus.google.com/103735939478494571930"
+      text: "+Kazi"
+      btnClass: "btn-google"
+      logo: "fa-google"
+    facebook:
+     url: "https://www.facebook.com/kazi.shahidullah"
+     text: "/kazi"
+     btnClass: "btn-facebook"
+     logo: "fa-facebook"
+    linkedin:
+      url: "http://linkedin.com/"
+      text: "/kazi"
+      btnClass: "btn-linkedin"
+      logo: "fa-linkedin"
+

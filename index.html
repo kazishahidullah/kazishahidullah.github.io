@@ -1,1 +1,50 @@
-Just another test file !
+---
+layout: default
+date: 2014-10-19 23:51
+lastmodified: 2014-10-19 23:51
+---
+
+<div itemscope itemtype="http://schema.org/Person" >
+  <div class="row">
+    <div class="col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
+      <div class="profile">
+        <div class="col-sm-12">
+
+          <div class="col-xs-12 col-sm-8">
+            <h2> <span itemprop="name">{{site.data.personal.name}}</span>
+               ( <span itemprop="additionalName">{{site.data.personal.nickname}}</span> )
+            </h2>
+            <p itemprop="jobTitle">{{site.data.personal.position}}</p>
+            <span itemprop="affiliation">
+              <p>{{site.data.personal.dept}}</p>
+              <p>{{site.data.personal.school}}</p>
+            </span>
+            <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+              <p>
+                <span itemprop="addressLocality">{{site.data.personal.city}}</span>,
+                <span itemprop="addressRegion">{{site.data.personal.state}}</span>
+              </p>
+            </span>
+            <p itemprop="email"> {{site.data.personal.email}}</p>
+            <p>&nbsp;</p>
+          </div>
+          <div class="col-xs-12 col-sm-4 text-center">
+            <figure>
+              <img src="{{site.data.personal.gravatar}}" alt="" class="img-circle img-responsive">
+            </figure>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-offset-3 col-lg-6">
+      <h2>Welcome !</h2>
+	  <p>This is personal website of Kazi Shahidullah</p>
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,10 @@
+
+mainmenu:
+  home:
+    url: "/"
+    text: ""
+    icon_class: "fa-home"
+  about:
+    url: "/about/"
+    text: ""
+    icon_class: "fa-info-circle"
