@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <i class="fa fa-info-circle"></i>
-subtitle: This page contains meta informations about me
+title: About Me
+#subtitle: This page contains meta informations about me
 permalink: /about/
 #published: false
 date: 2015-02-02 13:11
