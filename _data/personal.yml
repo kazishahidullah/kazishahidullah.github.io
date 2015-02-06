@@ -1,7 +1,7 @@
 ---
   name: "Kazi Shahidullah"
   #nickname: "Rifat"
-  position: "Graduate Student"
+  position: "Doctoral Candidate"
   dept: "College of Education"
   school: "University of Nevada, Reno"
   city: "Reno"
@@ -20,7 +20,7 @@
      btnClass: "btn-facebook"
      logo: "fa-facebook"
     linkedin:
-      url: "http://linkedin.com/"
+      url: "www.linkedin.com/in/kazishahidullah"
       text: "/kazi"
       btnClass: "btn-linkedin"
       logo: "fa-linkedin"
