@@ -2,9 +2,9 @@
 mainmenu:
   home:
     url: "/"
-    text: ""
+    text: "Home"
     icon_class: "fa-home"
   about:
     url: "/about/"
-    text: ""
+    text: "About Me"
     icon_class: "fa-info-circle"
