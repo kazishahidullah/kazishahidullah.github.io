@@ -8,3 +8,7 @@ mainmenu:
     url: "/about/"
     text: "About Me"
     icon_class: "fa-info-circle"
+  resume:
+    url: "/resume/"
+    text: "Resume"
+    icon_class: "fa-info-circle"
