@@ -188,7 +188,7 @@ Committees:
 
 * President and Executive Member of Bangladeshi Student Association at University of Nevada, Reno. 2012-13
 
-### Summary:
+## Summary:
 * I have intense knowledge, training and experience on Science, Technology, Engineering and Mathematics (STEM), Inquiry and 21st century skills.
 
 * I have intense knowledge on project development, preparation and implementation. Although I worked as research associate I have got foundational, preparation and implementation skills part of my Ph.D program as a Graduate Assistant and Research Assistant. My PhD advisor was one of the leading prominent Science Education scholar in Nevada as well as US. I had huge experiences on developing Inquiry based, Next Generation Science Standards and improving 21st Century Skills in Nevada and across US. I have participated and worked as RA in different project, training, workshops and conferences. Major research experiences in (Northern Nevada Space and Science Initiatives (NESSI), Northern Nevada English Learning Initiative (NNELI) Project.  
