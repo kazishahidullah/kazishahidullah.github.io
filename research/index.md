@@ -6,6 +6,8 @@ permalink: /research/
 date: 2015-02-02 13:11
 lastmodified: 2015-02-02 13:11
 ---
+### Research Interests
+Inquiry, STEM Education and 21st Century Skills, Science for ESL Students, Next Generation Science Standard (NGSS)
 
 ### Book Chapters in Progress
 * Crowther, D., Lederman, N. & Shahidullah, K. (2015). Changing Paradigm in Science Education for Bangladesh. Springer. (Fall, 2014)
