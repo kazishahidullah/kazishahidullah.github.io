@@ -10,7 +10,7 @@ lastmodified: 2015-02-02 13:11
 ### Book Chapters in Progress
 * Crowther, D., Lederman, N. & Shahidullah, K. (2015). Changing Paradigm in Science Education for Bangladesh. Springer. (Fall, 2014)
 
-### Research Paper 
+### Research Papers
 * Crowther, D., Shahidullah, K. &  Pozarski, C. (2015). STEM Inquiry Institute for School Leadership Teams: An Analysis of a year-long Professional Development Course for STEM Implementation.
 * Shahidullah, K. K. I, Rahman, S. M. H., & Uddin, J. (2008). Reflections of Education for Sustainable Development (ESD) Concept in Curriculum of Bangladesh: An Explorative study at Lower Secondary Science Level. PROSHIKHYAN, A Journal of Training and Development, 16(2), 52-64.
 
