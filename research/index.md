@@ -7,15 +7,14 @@ date: 2015-02-02 13:11
 lastmodified: 2015-02-02 13:11
 ---
 
-### Book Chapter in Progress
+### Book Chapters in Progress
 * Crowther, D., Lederman, N. & Shahidullah, K. (2015). Changing Paradigm in Science Education for Bangladesh. Springer. (Fall, 2014)
-Research/ Position Paper 
+
+### Research Paper 
 * Crowther, D., Shahidullah, K. &  Pozarski, C. (2015). STEM Inquiry Institute for School Leadership Teams: An Analysis of a year-long Professional Development Course for STEM Implementation.
 * Shahidullah, K. K. I, Rahman, S. M. H., & Uddin, J. (2008). Reflections of Education for Sustainable Development (ESD) Concept in Curriculum of Bangladesh: An Explorative study at Lower Secondary Science Level. PROSHIKHYAN, A Journal of Training and Development, 16(2), 52-64.
 
-### Conference
-
-#### Presentation
+### Conference Presentations
 * Shahidullah, K. &  Crowther, D. (2015). Flying Secret. Short Presentation for the National Science Teachers Association (NSTA). Chicago, Illinois, United States. (January). 
 * Crowther, D., Shahidullah, K. &  Pozarski, C. (2015). STEM Inquiry Institute for School Leadership Teams: An Analysis of a year-long Professional Development Course for STEM Implementation. A presentation for the international conference for the Association of Science Teachers Education (ASTE). Portland, OR, United States. (January).
 * Crowther, D., Shahidullah, K. & Pozarski, C. (2014). STEM Inquiry Institute for Administrators: An overview and evaluation of the Program. Poster presentation at the Regional Conference on Science Education for the National Science Teachers Association (NSTA). Long Beach, CA. United States. (December)
@@ -23,7 +22,7 @@ Research/ Position Paper
 * Crowther, D, Storke, E. & Shahidullah, K. (2012). Inquire to Acquire: Science as a Catalyst for English Language Learning. A Presentation at the 2012 Smithsonian Institute and the National Science Resources Center (NSRC) National Science Education Leadership Development Forum. Indianapolis, IN, United States. (March) 
 * Hosssain , M. M, & Shahidullah, K. K. I. (2010, January) Inclusive Education in the United States. Paper Presented  in International Conference on Child Friendly Inclusive Education, University of Dhaka, Bangladesh. On January 7-8, 2010.
 
-#### Participation
+### Conference Participation
 
 * National Science Teachers Conference (NSTA), March, 2015.
 Chicago, Illinois, United States
@@ -52,4 +51,3 @@ Las Vegas, Nevada, United States.
 * International Conference on Child Friendly Inclusive Education, January, 2010.
 Institute of Education and Research, University of Dhaka,
 Dhaka, Bangladesh.
-
