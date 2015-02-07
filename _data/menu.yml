@@ -12,6 +12,10 @@ mainmenu:
     url: "/research/"
     text: "Research"
     icon_class: "fa-info-circle"
+  experience:
+    url: "/experience/"
+    text: "Experience"
+    icon_class: "fa-info-circle"
   about:
     url: "/about/"
     text: "About Me"
