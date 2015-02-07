@@ -8,9 +8,9 @@ mainmenu:
     url: "/education/"
     text: "Education"
     icon_class: "fa-info-circle"
-  resume:
-    url: "/resume/"
-    text: "Resume"
+  research:
+    url: "/research/"
+    text: "Research"
     icon_class: "fa-info-circle"
   about:
     url: "/about/"
