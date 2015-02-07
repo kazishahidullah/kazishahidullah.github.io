@@ -4,6 +4,10 @@ mainmenu:
     url: "/"
     text: "Home"
     icon_class: "fa-home"
+  education:
+    url: "/education/"
+    text: "Education"
+    icon_class: "fa-info-circle"
   resume:
     url: "/resume/"
     text: "Resume"
